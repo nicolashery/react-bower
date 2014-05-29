@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "0.10.0",
+  "description": "React is a JavaScript library for building user interfaces",
   "main": "main.js",
   "repository": {
     "type": "git",
